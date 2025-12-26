@@ -41,7 +41,7 @@
   "devDependencies": {
     "@commitlint/cli": "^20.1.0",
     "@commitlint/config-conventional": "^20.0.0",
-    "@eslint/js": "^9.35.0",
+    "@eslint/js": "^9.39.2",
     "@swc/cli": "^0.7.9",
     "@swc/core": "^1.15.7",
     "@types/bcrypt": "^6.0.0",
@@ -60,7 +60,7 @@
     "@typescript-eslint/eslint-plugin": "^8.50.1",
     "@typescript-eslint/parser": "^8.50.1",
     "cross-env": "^10.1.0",
-    "eslint": "^9.35.0",
+    "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
     "globals": "^16.4.0",
@@ -75,7 +75,8 @@
     "ts-node": "^10.9.2",
     "tsc-alias": "^1.8.16",
     "tsconfig-paths": "^4.2.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.50.1"
   },
   "lint-staged": {
     "src/**/*.{js,ts,css,json,md}": [
